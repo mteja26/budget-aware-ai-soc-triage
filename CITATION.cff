@@ -7,7 +7,7 @@ authors:
     given-names: Manas Teja
 version: 0.6.0
 date-released: 2026-10-23
-license: LicenseRef-Proprietary
+license: Apache-2.0
 abstract: >-
   Reproducibility implementation for calibrated, ambiguity-aware, and
   priority-aware cybersecurity incident triage under exact analyst budgets.
@@ -19,4 +19,5 @@ keywords:
   - cost-sensitive learning
   - robust optimization
 repository-code: "https://github.com/mteja26/budget-aware-ai-soc-triage"
+
 
