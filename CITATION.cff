@@ -1,0 +1,22 @@
+﻿cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying manuscript."
+title: "Budget-Aware AI Decision Intelligence from Cybersecurity Incident Data: Cost-Safety-Priority Trade-offs in SOC Queue Triage"
+type: software
+authors:
+  - family-names: Maruri
+    given-names: Manas Teja
+version: 0.6.0
+date-released: 2026-10-23
+license: LicenseRef-Proprietary
+abstract: >-
+  Reproducibility implementation for calibrated, ambiguity-aware, and
+  priority-aware cybersecurity incident triage under exact analyst budgets.
+keywords:
+  - artificial intelligence
+  - decision intelligence
+  - cybersecurity data
+  - security operations center
+  - cost-sensitive learning
+  - robust optimization
+repository-code: "https://github.com/mteja26/budget-aware-ai-soc-triage"
+
